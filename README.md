@@ -11,11 +11,6 @@ Strongest in **Java** (Spring Boot). Working in **Python** for the ML side.
 I like building systems that actually run — models served behind a real API,
 not left sitting in a notebook.
 
-## Projects
-
-**[Project Name](link)** — One line on what it does and why it's interesting.
-(*Java, Spring Boot, PostgreSQL, Docker*)
-
 ## What I'm Learning
 
 REST API design, Docker, and taking trained models from Python into a
