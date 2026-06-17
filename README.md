@@ -3,7 +3,7 @@
 High school student at Somerset Academy (Class of 2027), focused on
 **backend engineering** and **machine learning**.
 
-[View my resume](file:///Users/zayd/Downloads/Zayd%20Aziz%20Resume.pdf · [LinkedIn](https://www.linkedin.com/in/zaydaziz/) · zayd.mel.au@gmail.com
+[Zayd Aziz Resume.pdf](https://github.com/user-attachments/files/29060156/Zayd.Aziz.Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/zaydaziz/) · zayd.mel.au@gmail.com
 
 ## About
 
