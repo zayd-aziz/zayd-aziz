@@ -3,7 +3,7 @@
 High school student at Somerset Academy (Class of 2027), focused on
 **backend engineering** and **machine learning**.
 
-[LinkedIn](https://www.linkedin.com/in/zaydaziz/) · your-email@example.com
+[LinkedIn](https://www.linkedin.com/in/zaydaziz/) · zayd.mel.au@gmail.com
 
 ## About
 
