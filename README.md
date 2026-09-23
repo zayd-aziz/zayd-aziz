@@ -1,6 +1,6 @@
 # Hi, I'm Zayd 👋
 
-High school student at Somerset Academy (Class of 2027), focused on backend engineering and machine learning.
+im focused on backend engineering and machine learning.
 
 ## About
 
